@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahulsee
+- 👋 Hi, I’m Rahul Seetharaman.
 - I am a Software Engineer
 
 <!---
