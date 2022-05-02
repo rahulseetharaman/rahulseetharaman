@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahul Seetharaman.
-- I am a Software Engineer
+- I am an MS CS student at the University of Massachusetts Amherst.
 
 <!---
 rahulsee/rahulsee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
